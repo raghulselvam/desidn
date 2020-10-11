@@ -1,0 +1,142 @@
+.student1{
+    width:100%;
+    overflow-x: hidden;
+    align-items: center;
+    position: relative;
+    
+
+    
+}
+.student_header1{
+    align-items: center;
+    border: 1px solid black;
+}
+
+.student_person1{
+    margin: auto;
+    display: flex;
+    width: 11%;
+    text-align: center;
+    margin-right: 0;
+    align-items: center;
+    margin-top: -3.5rem;
+}
+.bell_icon1{
+    object-fit: contain;
+    height: 15px;
+    padding-right: 15px;
+
+}
+.person_name1{
+    
+    padding-left: 2px;
+}
+.person_icon1{
+    object-fit: contain;
+    height: 15px;
+}
+.student_logo1{
+     border: 1px solid black;
+     margin-left: 10px;
+     height: 10px;
+     text-align: center;
+     margin-top: 10px;
+     width: 12%;
+     font-size: 15px;
+     padding-bottom: 15px;
+     padding-top:5px;
+     } 
+     .left_table1{
+         width: 25%;
+     }
+     
+     .left_table1 .table2 ,tr,td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 5px;
+        padding-right: 80px;
+        font-size: 12px;
+        height: 16px;
+        
+     }
+     .student_table1{
+        display: flex;
+        border: 1px solid black;
+        border-top: 1px;
+    }
+    .addstudent,form{
+       align-items: center;
+       
+       border: hidden;
+       
+       }
+       .first_first,.seconds_firsts,.first_second,.second_first,.second_second,.third_first,.third_second1,.fourth_second1,.fourth_first{
+           border:none;
+       }
+       .seconds_first{
+           object-fit: contain;
+           height: 14px;
+           border: none;
+           margin-left: -5rem;
+       }
+       .checkbox_first{
+        width: 1.2em;
+        height: 1.1em;
+        background-color: white;
+        border-radius: 50%;
+        vertical-align: middle;
+        border: 1px solid black;
+        -webkit-appearance: none;
+        outline: none;
+        cursor: pointer;
+       }
+       .checkbox_second{
+        width: 1.2em;
+        height: 1.1em;
+        background-color: white;
+        border-radius: 50%;
+        vertical-align: middle;
+        border: 1px solid black;
+        -webkit-appearance: none;
+        outline: none;
+        cursor: pointer;
+       }
+       
+       .seven{
+           
+           margin-left: 300px;
+       }
+       .six_first,.seven{
+           border: none;
+       }
+       .six_second,.six_third{
+        border:none;
+        display: flex;
+        
+    }
+    .six_third{
+        margin-left: 40px;
+    }
+       .five_first,.five_second1{
+           border:none;
+          
+       }
+       .five_second{
+        border: 1px solid gray;
+        width: 100%;
+        height: 22px;
+    }
+       .third_second{
+           border: 1px solid gray;
+           width: 100%;
+           height: 22px;
+       }
+       .fourth_second{
+        border: 1px solid gray;
+        width: 100%;
+        height: 22px;
+    }
+.add_student{
+    background-color: skyblue;
+}
+
